@@ -3,6 +3,7 @@
 ### Things used
 - React
 - Yarn
+- css
 
 ## Description
 ---
